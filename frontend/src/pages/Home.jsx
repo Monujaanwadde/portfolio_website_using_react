@@ -7,7 +7,7 @@ export default function Home() {
     "Node.js Specialist",
     "UI/UX Engineer"
   ];
-
+  
   const [index, setIndex] = useState(0);
   const [subIndex, setSubIndex] = useState(0);
   const [reverse, setReverse] = useState(false);
